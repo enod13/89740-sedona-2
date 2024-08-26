@@ -2,6 +2,7 @@
 
 * Студент: [Елена Нодельман](https://up.htmlacademy.ru/htmlcss-individual/2/user/89740).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+* Сайт: [Седона](https://enod13.github.io/89740-sedona-2/).
 
 ---
 
