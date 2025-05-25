@@ -2,6 +2,7 @@
 
 * Студент: [Елена Нодельман](https://up.htmlacademy.ru/htmlcss-individual/2/user/89740).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Мой проект: [Седона](https://enod13.github.io/89740-sedona-2/).
 
 ---
 
